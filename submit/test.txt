@@ -1,0 +1,68 @@
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		
+		int flag = 0;
+		int y = 0;
+		int X = 10;
+		if(X%2){
+			System.out.println("X is even");
+		}else{
+			System.out.println("X is odd");
+		}
+
+
+		try{
+		
+			for(int i = 0; i < 7; i++){
+				System.out.println(x);
+				x = x + 10;
+			}
+		
+			while(y < 100){
+				y = y + 20;
+			}
+
+			do{
+				System.out.println("Do while is ran");
+				flag++;			
+			}whle(flag == 0)
+		
+		}catch(e){
+			System.out.println(e);
+		}
+
+ 		int day = 5; 
+        	String dayString; 
+  
+       		switch (day) { 
+        		case 1: 
+            			dayString = "Monday"; 
+            			break;
+
+        		case 2: 
+            			dayString = "Tuesday"; 
+            			break;
+
+        		case 3: 
+            			dayString = "Wednesday"; 
+            			break;
+
+        		case 4: 
+            			dayString = "Thursday"; 
+            			break;
+
+        		case 5: 
+            			dayString = "Friday"; 
+            			break; 
+        
+        	} 
+
+
+       if(x > 2){
+	system.out.println("x is larger than two");	
+}
+    
+
+	}
+}
